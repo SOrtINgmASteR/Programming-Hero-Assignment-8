@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=512&q=80",
+    "title": "Nova Tasks",
+    "companyName": "Orbit Labs",
+    "description": "Nova Tasks is a lightning fast workspace for teams who move between calendars, kanban boards, and AI assistants without friction. The app pairs a clean interface with color-coded context blocks that collapse into summaries when focus mode is active. Smart priorities learn recurring commitments, reorder due dates automatically, and nudge you with gentle sounds rather than intrusive pop-ups. Deep calendar sync lets you drag a task directly into Outlook or Google Meet while retaining linked notes, files, and next steps. Each list can switch into timeline view for planning releases, sprints, or content schedules. Native shortcuts make reorganising tasks as easy as writing an email, and an adaptive offline cache means meetings keep flowing even when Wi-Fi drops. Weekly pulse reports celebrate momentum and highlight workloads before burnout sets in. The service finally bundles personal focus rituals, team rituals, analytics, and automation into one dependable command centre. Collaborative check-ins weave across devices and remind you to capture reflections the moment a project ships.",
+    "size": 92,
+    "reviews": 18430,
+    "ratingAvg": 4.7,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 360 },
+      { "name": "3 star", "count": 1520 },
+      { "name": "4 star", "count": 4030 },
+      { "name": "5 star", "count": 12310 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=512&q=80",
+    "title": "Pulse Note",
+    "companyName": "Sonic Byte",
+    "description": "Pulse Note transforms note-taking into an audio-first studio, capturing every nuance of voice memos, sketches, and collaborative feedback in one flexible timeline. Record on the go, mark moments with emojis, and the waveform instantly generates searchable transcripts that embrace typos instead of flattening personality. Co-creators can jump into a session, respond with threaded voice replies, and colour-tag action items that sync back to Slack or Microsoft Teams. Daily digest cards summarise debates, decisions, and follow-ups so teams new to the conversation can catch up without replaying an entire meeting. Automations link to calendar events, attach reference articles, and archive outdated clips to keep your workspace tidy. For creators, Pulse Note adapts to studio microphones, mobile headsets, and ambient recordings while smoothing levels in real time. Privacy shields let you blur sensitive sections before sharing, and offline caching safeguards ideas during flights. By the time you reopen the app, smart prompts suggest mood-matching backgrounds, next steps, and highlight reels tailored to your workflow.",
+    "size": 64,
+    "reviews": 9230,
+    "ratingAvg": 4.5,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 2480 },
+      { "name": "5 star", "count": 5310 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?auto=format&fit=crop&w=512&q=80",
+    "title": "Flux Weather",
+    "companyName": "Blue Horizon",
+    "description": "Flux Weather approaches forecasting as an immersive, story-driven dashboard that surfaces local trends you actually feel during commutes, runs, or remote work. The radar animates layers for temperature, pollen, air quality, and outage probabilities, each with tactile haptics if you are using a phone. Smart routes recalculate travel times by blending transit feeds and minute-by-minute precipitation models so you know exactly when to leave. Neighborhood bulletins curate community-captured images, letting you compare your street with real-time satellite snapshots and historical averages. For planners, seasonal outlooks simulate future weekends, balancing storms with sunlight and suggesting backup indoor activities from nearby partners. Emergency alerts escalate gently, stacking context on top of previous notifications instead of startling sirens. When the grid falters, Flux Weather automatically downloads offline forecast packages and recommends energy-saving tips specific to your area. You can even export a weather story for a school project or client presentation, complete with charts, narratives, and localisation.",
+    "size": 78,
+    "reviews": 14480,
+    "ratingAvg": 4.6,
+    "downloads": 1570000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1390 },
+      { "name": "4 star", "count": 3640 },
+      { "name": "5 star", "count": 8790 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=512&q=80",
+    "title": "Lumos Finance",
+    "companyName": "Lumen Works",
+    "description": "Lumos Finance gives you a living blueprint of your money, combining predictive cashflow, mindfulness nudges, and plain-language coaching that respects how you actually spend. The home screen narrates weekly inflows, bills, and discretionary zones with illustrated cards that celebrate positive habits rather than shaming slip-ups. Smart envelopes adapt in real time, reallocating funds when surprise expenses hit while explaining trade-offs in straightforward terms. A goals lab helps you stage milestones, simulate market swings, and collaborate with family members without revealing sensitive numbers. Receipts scan instantly, tag tax-deductible purchases, and sync to your accountant through secure portals. During hectic months, automated bill queueing pays vendors at optimal dates to minimise interest. Lumos keeps a calm voice, offering just-in-time lessons about credit health, emergency buffers, and short investing primers inside five-minute audio briefs. When travel or relocation is coming, the assistant suggests region-specific cost adjustments, ensuring your future plans stay grounded and clear.",
+    "size": 58,
+    "reviews": 11270,
+    "ratingAvg": 4.4,
+    "downloads": 940000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1480 },
+      { "name": "4 star", "count": 3690 },
+      { "name": "5 star", "count": 5250 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=512&q=80",
+    "title": "Aether Sketch",
+    "companyName": "Canvas Loop",
+    "description": "Aether Sketch reimagines digital illustration as a shared studio where creative sparks and organisation tools sit together without friction. The canvas scales from notebook doodles to billboard layouts, preserving brush texture and colour fidelity across every device. Real-time sessions let collaborators layer ideas with lag-free strokes, each annotated with mood boards, references, and version histories. Vector and raster workflows coexist, so you can storyboard animation frames while refining texture packs in the same project. An AI assistant can suggest perspective guides, palette harmonies, and accessibility adjustments whenever you request gentle help. Offline packs cache brushes, fonts, and scenes for travel days, then merge changes seamlessly once you reconnect. Integrated asset management keeps licensing info attached to every import, preventing headaches at export time. When deadlines loom, the timeline view highlights dependencies, deliverables, and review checkpoints. Aether Sketch supports play, experimentation, and shipping finished work with equal care for detail and delight.",
+    "size": 136,
+    "reviews": 15890,
+    "ratingAvg": 4.8,
+    "downloads": 1860000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 930 },
+      { "name": "4 star", "count": 3920 },
+      { "name": "5 star", "count": 10500 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1507537509458-b8312d35a233?auto=format&fit=crop&w=512&q=80",
+    "title": "Cascade Fit",
+    "companyName": "Momentum Tech",
+    "description": "Cascade Fit personalises training for athletes, beginners, and anyone balancing wellness with real life schedules. The app listens to wearable signals, sleep trends, and seasonal routines to craft adaptive plans that flex when you miss a workout. Every session opens with a quick readiness scan, offering warmups or downshifts depending on how your body responds. Real-time coaching cues accompany video demonstrations, highlighting form checkpoints, breathing rhythm, and tempo overlays that keep you mindful. When you travel, Cascade Fit generates bodyweight or hotel gym alternatives and queues playlists tuned to your cadence. Nutrition partners slot in suggested meals with grocery integrations, ensuring protein, hydration, and recovery align with your goals. Weekly reflections visualise fatigue, mood, and confidence to help you focus on long-term progress rather than streaks. Community challenges celebrate teamwork without leaderboard pressure, and certified coaches host live office hours for guidance. Everything syncs securely so your data remains both powerful and private.",
+    "size": 104,
+    "reviews": 13420,
+    "ratingAvg": 4.3,
+    "downloads": 780000,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 560 },
+      { "name": "3 star", "count": 1680 },
+      { "name": "4 star", "count": 3520 },
+      { "name": "5 star", "count": 7240 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=512&q=80",
+    "title": "Tempo Learn",
+    "companyName": "Cadence Labs",
+    "description": "Tempo Learn turns micro-learning into a rhythmic practice that keeps concepts fresh without overwhelming your day. Start by building playlists from bite-sized lessons, podcasts, labs, and quizzes, then let the spaced repetition engine serve reminders at the perfect moment. Each card includes context from previous attempts, so you understand mistakes, celebrate wins, and request deeper dives when curiosity strikes. Educators can craft collaborative channels, track learner sentiment, and schedule live feedback jams that feel more like jam sessions than formal reviews. Tempo Learn supports rich media authoring, letting you layer captions, dual-language voiceovers, and tactile notes for inclusive experiences. Analytics transform progress into musical visualisations, showing where comprehension accelerates or stalls. Offline sync keeps study streaks intact during travel, and the AI coach suggests rest days to prevent burnout. Integrations with calendars, project tools, and campus systems ensure knowledge flows seamlessly into the rest of your workflow. Weekly spotlights feature community experts who remix lessons into challenges, sparking healthy competition and creative collaboration.",
+    "size": 49,
+    "reviews": 9870,
+    "ratingAvg": 4.6,
+    "downloads": 1020000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 2980 },
+      { "name": "5 star", "count": 5440 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=512&q=80",
+    "title": "Prism Journal",
+    "companyName": "Atlas Ink",
+    "description": "Prism Journal invites you to explore your inner landscape with guided prompts, mindful storytelling, and tools that respect the ebb and flow of emotions. Each entry begins with a softly animated mood check-in, allowing you to attach colours, weather metaphors, or ambient sounds that capture the moment. Prompts adapt based on your streak history, chosen themes, and even the time of day, encouraging you to reflect on gratitude, hurdles, and intentions. The timeline view highlights patterns in energy, sleep, and social connections, making personal insights easier to notice. For writers, advanced formatting allows mixed media, handwritten sketches, and audio snippets stored alongside text. Sharing options keep privacy central: export curated memories for therapy sessions or send encrypted letters to trusted friends. When life becomes hectic, Prism Journal gently nudges you with compassionate reminders instead of streak warnings. Seasonal journeys unlock mini workshops, breathwork guidance, and creative rituals that transform daily notes into lasting personal growth.",
+    "size": 41,
+    "reviews": 7560,
+    "ratingAvg": 4.5,
+    "downloads": 610000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 2180 },
+      { "name": "5 star", "count": 4220 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1498050108023-4b56a7340b99?auto=format&fit=crop&w=512&q=80",
+    "title": "Orbit Travel",
+    "companyName": "Waypoint Group",
+    "description": "Orbit Travel blends planning, inspiration, and logistics into a single co-pilot that understands how trips evolve from daydream to memory. Start with inspiration boards that mix personal photos, community itineraries, and curated city guides tailored to your mood. The itinerary builder reorganises automatically when flights change or friends join mid-journey, keeping everyone aligned with live notifications. Translation overlays work offline, highlighting cultural etiquette tips and phrase pronunciations as you explore. Budget trackers sync with split bills, loyalty programs, and virtual cards, ensuring expenses stay transparent without awkward conversations. Safety dashboards display local health advisories, weather shifts, and transportation status in clear, calm language. Orbit Travel even collaborates with your smart home, pausing mail deliveries and adjusting thermostats before departure. After the trip, memory capsules gather photos, audio notes, and souvenirs into an interactive timeline that is easy to share. The result is travel planning that stays flexible, welcoming, and delightfully organised.",
+    "size": 88,
+    "reviews": 10140,
+    "ratingAvg": 4.4,
+    "downloads": 970000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 440 },
+      { "name": "3 star", "count": 1280 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 5010 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1472289065668-ce650ac443d2?auto=format&fit=crop&w=512&q=80",
+    "title": "Sora Music",
+    "companyName": "Cloudbreak",
+    "description": "Sora Music transforms listening into a cinematic, communal experience that adapts to every mood, device, and social circle. The library curates high-fidelity tracks with animated visualisers that respond to tempo, lyrics, and even the weather outside your window. Collaborative rooms let friends queue songs in real time, vote on transitions, and chat through spatial audio that feels like a shared loft. Discovery journeys learn from your rituals, surfacing sunrise mixes for focused mornings, tactical beats for workouts, and slow bloom playlists for winding down. Artists can host interactive listening parties, dropping commentary bubbles, live stems, and exclusive artwork as fans respond. Audiophile tools fine-tune output for headphones, speakers, or car stereos while preserving lossless quality. Sora Music respects wellness by introducing gentle volume fades and mindful breaks after long sessions. When you step offline, your favourite mixes travel with you, complete with liner notes, artist stories, and downloadable stems for creative experimentation.",
+    "size": 115,
+    "reviews": 20890,
+    "ratingAvg": 4.7,
+    "downloads": 2240000,
+    "ratings": [
+      { "name": "1 star", "count": 360 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 1840 },
+      { "name": "4 star", "count": 5280 },
+      { "name": "5 star", "count": 12900 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1500537622661-23d63c0f38e4?auto=format&fit=crop&w=512&q=80",
+    "title": "Helix Recipes",
+    "companyName": "Kitchen Loop",
+    "description": "Helix Recipes is a culinary companion that remembers your pantry, honours traditions, and sparks playful experimentation in the kitchen. The moment you open the app, it scans your inventory, expiry dates, and dietary goals to suggest dishes that reduce waste. Step-by-step guides combine video close-ups, sensory cues, and adaptive timers so you can cook confidently whether you are a beginner or seasoned host. Family recipe vaults preserve cherished dishes with voice notes from relatives, regional histories, and substitution tips for modern palates. Meal plans balance nutrition with budget, automatically generating shopping lists organised by store layout. When allergies or preferences shift, Helix Recipes recalibrates menus without sacrificing flavour. Live co-cook sessions invite friends or chefs to join virtually, offering instant feedback on texture, plating, and seasoning. Sustainability badges highlight responsible sourcing and seasonal produce. After each meal, the journal captures memories, ratings, and suggested pairings to inspire your next culinary adventure.",
+    "size": 72,
+    "reviews": 8320,
+    "ratingAvg": 4.5,
+    "downloads": 690000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 910 },
+      { "name": "4 star", "count": 2410 },
+      { "name": "5 star", "count": 4600 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?auto=format&fit=crop&w=512&q=80",
+    "title": "Beacon Mind",
+    "companyName": "Serenity Forge",
+    "description": "Beacon Mind supports mental wellness by blending soundscapes, coaching, and science-backed practices into a comforting daily ritual. Begin with a personalised grounding sequence that adapts to your breathing pace, heart rate data, or manual check-ins. Guided journeys weave together focus music, mindfulness stories, and gentle coaching prompts that respond to your progress in real time. Reflection cards encourage you to capture insights, gratitude, and challenges, building a library of resilience moments. When stress spikes, the SOS toolkit offers quick breathing patterns, somatic micro-movements, and community helplines curated for your region. Weekly reports translate complex metrics into approachable narratives, highlighting patterns in sleep, energy, and mood. Therapists can share optional programmes, syncing exercises and journal prompts directly into your schedule. Offline packs keep your favourite sessions available for flights or low-signal commutes. Beacon Mind meets you with compassion, reminding you that incremental steps forward are worth celebrating every single day. Even on quieter weeks, the gentle check-ins honour rest and reaffirm your long-term intentions.",
+    "size": 53,
+    "reviews": 11980,
+    "ratingAvg": 4.6,
+    "downloads": 840000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 330 },
+      { "name": "3 star", "count": 1120 },
+      { "name": "4 star", "count": 3180 },
+      { "name": "5 star", "count": 5160 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1526657782461-9fe13504a853?auto=format&fit=crop&w=512&q=80",
+    "title": "Zenith Wallet",
+    "companyName": "Apex Financial",
+    "description": "Zenith Wallet brings crypto and traditional finance into one intuitive vault where security, transparency, and education work in tandem. The dashboard reveals net worth, staking rewards, and cash flow in plain language, sidestepping jargon that often intimidates newcomers. Multi-currency cards allow you to pay in local currency while auto-converting from your preferred assets, complete with real-time exchange insights. Advanced safeguards include biometric approval, hardware key support, and contextual fraud alerts that explain risks clearly. Tax-friendly reporting captures every transaction with tags for personal, business, or investment use, exporting compliant summaries globally. Learning modules teach DeFi protocols, layered security, and portfolio diversification with interactive simulations. When markets swing, Zenith Wallet prompts scenario planners that test different strategies before you act. Shared vaults empower families or teams to manage budgets collaboratively while preserving granular permissions. You stay in control, confident that every balance, transfer, and opportunity lives inside a single, resilient ecosystem.",
+    "size": 110,
+    "reviews": 16200,
+    "ratingAvg": 4.8,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 10800 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=512&q=80",
+    "title": "Metric Dash",
+    "companyName": "DataWeave Inc.",
+    "description": "Metric Dash equips SaaS teams with a mission control centre that captures revenue, adoption, and retention in narratives everyone understands. Customisable dashboards stitch together subscription data, product telemetry, and support signals without demanding SQL mastery. Scenario modelling helps you forecast churn, experiment with pricing tiers, and visualise expansion revenue under different assumptions. Each widget explains why metrics move, layering context from customer interviews, release notes, and marketing experiments. Automated health scores flag accounts that need attention and recommend playbooks coordinated with sales, success, and product teams. When leadership meetings arrive, Metric Dash generates story-driven briefings complete with annotated charts ready for presentation. Data governance stays tight through audit trails, role-based views, and automated anomaly detection. Mobile companions keep execs in sync during travel, offering summaries that translate financial jargon into actionable tasks. With Metric Dash, teams move beyond raw numbers into shared understanding and aligned execution. Insights libraries capture lesson logs from past experiments, making it easy to revisit what worked and what stalled.",
+    "size": 67,
+    "reviews": 8150,
+    "ratingAvg": 4.6,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=512&q=80",
+    "title": "Vortex Deals",
+    "companyName": "E-Com Global",
+    "description": "Vortex Deals is your personal savings strategist, scanning global storefronts, boutique marketplaces, and loyalty schemes to surface offers that genuinely matter. The discovery feed learns your shopping ethics, favourite brands, and sustainability goals, so recommendations feel curated rather than cluttered. Price history charts reveal the real story behind flash sales, highlighting when to wait, when to pounce, and how upcoming events may shift inventory. For planners, bundle builders match complementary products, apply stackable coupons, and calculate shipping combinations that minimise cost and carbon. Alerts arrive as calm nudges with context about retailer reputation, return windows, and warranty coverage. When you shop with friends, collaborative lists sync contributions, split payments, and track who claimed each item. Cashback wallets consolidate rewards from cards, marketplaces, and digital currencies into a single dashboard. After checkout, Vortex Deals monitors price drops, filing automatic adjustment requests where supported. Shopping becomes strategic, transparent, and surprisingly fun. Seasonal spotlights showcase ethical makers and limited editions, inviting you to discover stories behind every purchase.",
+    "size": 85,
+    "reviews": 19500,
+    "ratingAvg": 4.5,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 10500 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?auto=format&fit=crop&w=512&q=80",
+    "title": "Quill Editor",
+    "companyName": "Syntax Studios",
+    "description": "Quill Editor delivers a sanctuary for mindful writing, balancing minimalist aesthetics with powerful collaboration features that never feel intrusive. The workspace adapts to your flow, shifting between focus mode, research sidebars, and split views for outlining complex narratives. Markdown, rich text, and code snippets coexist gracefully, so you can draft newsletters, technical documentation, and poetry without switching tools. Cloud sync keeps versions intact, allowing you to rewind to any paragraph and compare edits with calm diff views. Collaborative sessions invite readers to leave context-rich annotations, voice notes, or quick polls for feedback cycles. Integrated citation helpers pull references, format bibliographies, and remind you about missing attributions before publishing. When deadlines loom, the pacing bar visualises word count, tone shifts, and readability to keep your story balanced. Offline mode stores everything locally, then merges updates conflict-free when you're back online. Quill Editor respects both craft and curiosity, letting ideas breathe. Gentle ambient soundtracks accompany late-night sessions, helping you remain grounded while the words unfold.",
+    "size": 38,
+    "reviews": 6900,
+    "ratingAvg": 4.3,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07568e761?auto=format&fit=crop&w=512&q=80",
+    "title": "Stillness",
+    "companyName": "Aura Health",
+    "description": "Stillness offers a sanctuary for meditation, sleep, and emotional restoration, blending biometric feedback with storytelling that honours diverse traditions. The home ritual greets you with a tidal breathing animation synced to your heart rate or the pace you choose manually. Guided sessions range from two-minute drop-ins to extended retreats, each pairing voice, instrumentals, and immersive visuals that respond to your mood. Sleep journeys weave lullabies, slow cinematic soundscapes, and gentle narration that fades when your breathing steadies. Reflection journals capture sensations, insights, and gratitude, allowing you to revisit milestones on your healing journey. Community circles create safe spaces where practitioners share experiences, celebrate progress, and host live meditations across time zones. During stressful moments, the Calm Line offers instant grounding exercises tailored to your environment, whether you're commuting or preparing for a presentation. Stillness integrates seamlessly with wearables, syncing data privately to highlight how rest, mindfulness, and daily choices harmonise.",
+    "size": 95,
+    "reviews": 14100,
+    "ratingAvg": 4.7,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&w=512&q=80",
+    "title": "Connect Sphere",
+    "companyName": "Nexus Social",
+    "description": "Connect Sphere empowers local communities to discover events, exchange skills, and build friendships through a welcoming digital plaza. The discovery map highlights neighbourhood gatherings, volunteer drives, workshops, and quiet meetups, each layered with accessibility info and cultural notes. Personal profiles showcase your interests, schedules, and the skills you'd like to share, making introductions natural. Group chats feel like living rooms, offering threads for planning, voice notes, and shared media without algorithmic noise. Safety stewards verify hosts, monitor respectful conduct, and provide crisis resources. Event organisers receive smart templates for sign-up flows, reminders, and feedback surveys that celebrate successes and collect constructive ideas. Spotlight stories amplify unsung local heroes, encouraging others to join initiatives with confidence. Even when offline, Connect Sphere caches directions, key contacts, and translated instructions to keep activities inclusive. The platform nurtures belonging by prioritising empathy, collaboration, and the joy of contributing together. Seasonal showcases curate themed festivals, pop-up markets, and learning circles, ensuring every neighbourhood tradition finds a welcoming spotlight.",
+    "size": 120,
+    "reviews": 11300,
+    "ratingAvg": 4.2,
+    "downloads": 1050000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 4700 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1556742044-1a3b83084a5a?auto=format&fit=crop&w=512&q=80",
+    "title": "Bolt Pay",
+    "companyName": "Fintech Core",
+    "description": "Bolt Pay streamlines peer-to-peer payments and everyday finances with precision, speed, and trustworthy guidance. The home hub displays spending pulses, upcoming bills, and shared balances in a clean, colour-coded timeline. Instant transfers arrive with animation receipts that confirm completion and summarise notes, attachments, and location context. Virtual cards generate on demand for subscriptions, travel, or gifting, each with configurable limits and auto-expiration. Smart categorisation analyses receipts, labels expenses for taxes, and highlights opportunities to build savings. When fraud patterns emerge, Bolt Pay interrupts transactions with clear explanations and one-tap support escalation. Budget partners, roommates, or clubs can manage group wallets, track dues, and settle tabs without spreadsheets. The app integrates with transit, utilities, and streaming platforms to automate recurring payments securely. During financial coaching sessions, AI insights translate data into practical advice about credit health, debt payoff plans, and investing intros. Bolt Pay turns money management into a collaborative, empowering routine.",
+    "size": 76,
+    "reviews": 17800,
+    "ratingAvg": 4.6,
+    "downloads": 1650000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 4900 },
+      { "name": "5 star", "count": 10500 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=512&q=80",
+    "title": "CoreFlow Yoga",
+    "companyName": "Flow Fitness",
+    "description": "CoreFlow Yoga brings studio-quality instruction to your living room, offering adaptive journeys that honour both athletic ambition and mindful restoration. Start each session with a body scan that tunes sequences to your energy, mobility, and recent habits. The dynamic class library spans sunrise flows, strength circuits, chair-friendly mobility, and long restorative immersions guided by inclusive instructors. Pose recognition uses your device camera to provide gentle alignment cues, safety adjustments, and encouragement without recording or storing video. Breathwork modules integrate with movement, visualising inhalations and exhalations as calming aurora trails across the screen. Progress dashboards celebrate consistency, highlighting how balance, flexibility, and mood evolve week by week. Community challenges focus on shared intention-setting rather than competition, fostering a supportive circle wherever you practice. When traveling, offline playlists and minimal-equipment routines keep momentum steady. CoreFlow Yoga becomes a trusted companion that respects your body's wisdom and celebrates every mindful step. Seasonal retreats bundle nutrition guides, meditation strolls, and journaling prompts to deepen your holistic practice.",
+    "size": 89,
+    "reviews": 9450,
+    "ratingAvg": 4.8,
+    "downloads": 880000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 6200 }
+    ]
+  }
+]
