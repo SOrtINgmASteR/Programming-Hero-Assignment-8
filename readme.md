@@ -44,10 +44,10 @@ Open the dev server URL provided by Vite (defaults to <http://localhost:5173>).
 - Deploy on Netlify/Vercel/Cloudflare with SPA fallback enabled (rewrite `/*` to `/index.html`)
 - Ensure environment caches are cleared if testing localStorage install/uninstall flows
 
-## Live Link & GitHub Repository Link
+## 🚀 Live Link & GitHub Repository Link
 
-- Live site: [Your Live Site URL](https://your-live-site.example)  
-- GitHub repository: [Your Repo](https://github.com/your-username/your-repo)
+- Live site: [Netlify Live Link](https://priom-programming-hero-assignment-8.netlify.app/)  
+- GitHub repository: [Repository Link](https://github.com/SOrtINgmASteR/Programming-Hero-Assignment-8)
 
 
 ## 📦 Resources
